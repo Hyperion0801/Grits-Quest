@@ -1,4 +1,4 @@
-# Grits-Quest
+# Grit's Quest
 A free and open-source game written in GameMaker.
 
 # This game is in early alpha, here be dragons.
