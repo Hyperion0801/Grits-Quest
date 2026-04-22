@@ -1,0 +1,39 @@
+{
+  "$GMProject":"v1",
+  "%Name":"Grit's Quest",
+  "AudioGroups":[
+    {"$GMAudioGroup":"v1","%Name":"audiogroup_default","exportDir":"","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
+  ],
+  "configs":{
+    "children":[],
+    "name":"Default",
+  },
+  "defaultScriptType":1,
+  "Folders":[],
+  "ForcedPrefabProjectReferences":[],
+  "IncludedFiles":[],
+  "isEcma":false,
+  "LibraryEmitters":[],
+  "MetaData":{
+    "IDEVersion":"2024.1400.5.1043",
+  },
+  "name":"Grit's Quest",
+  "resources":[
+    {"id":{"name":"Obj_Player","path":"objects/Obj_Player/Obj_Player.yy",},},
+    {"id":{"name":"Obj_Solid","path":"objects/Obj_Solid/Obj_Solid.yy",},},
+    {"id":{"name":"Room_01","path":"rooms/Room_01/Room_01.yy",},},
+    {"id":{"name":"Sprite_Player","path":"sprites/Sprite_Player/Sprite_Player.yy",},},
+    {"id":{"name":"Sprite_Solid","path":"sprites/Sprite_Solid/Sprite_Solid.yy",},},
+    {"id":{"name":"Sprite_Tlst_01","path":"sprites/Sprite_Tlst_01/Sprite_Tlst_01.yy",},},
+    {"id":{"name":"Tileset_01","path":"tilesets/Tileset_01/Tileset_01.yy",},},
+  ],
+  "resourceType":"GMProject",
+  "resourceVersion":"2.0",
+  "RoomOrderNodes":[
+    {"roomId":{"name":"Room_01","path":"rooms/Room_01/Room_01.yy",},},
+  ],
+  "templateType":"game",
+  "TextureGroups":[
+    {"$GMTextureGroup":"","%Name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","customOptions":"","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"name":"Default","resourceType":"GMTextureGroup","resourceVersion":"2.0","targets":-1,},
+  ],
+}

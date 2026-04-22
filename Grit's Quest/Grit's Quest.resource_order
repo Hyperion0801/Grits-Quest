@@ -1,0 +1,11 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"Obj_Player","order":3,"path":"objects/Obj_Player/Obj_Player.yy",},
+    {"name":"Obj_Solid","order":5,"path":"objects/Obj_Solid/Obj_Solid.yy",},
+    {"name":"Sprite_Player","order":4,"path":"sprites/Sprite_Player/Sprite_Player.yy",},
+    {"name":"Sprite_Solid","order":6,"path":"sprites/Sprite_Solid/Sprite_Solid.yy",},
+    {"name":"Sprite_Tlst_01","order":2,"path":"sprites/Sprite_Tlst_01/Sprite_Tlst_01.yy",},
+    {"name":"Tileset_01","order":1,"path":"tilesets/Tileset_01/Tileset_01.yy",},
+  ],
+}
