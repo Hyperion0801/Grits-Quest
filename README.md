@@ -6,6 +6,6 @@ You play as Grit, a hungry rat looking for cheese. I made the game with inspirat
 Right now the game is super buggy and is missing basic features like enemies and the ever-important cheese, but I'm working on it!
 
 # Todo
-Switch to C++
-Compile with devkitPPC
+Switch to C++<br>
+Compile with devkitPPC<br>
 Make Windows and Mac versions
